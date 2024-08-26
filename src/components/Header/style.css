@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bgImage {
+    background-image: url("../../images/Rectangle (1).svg");
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bgHead {
+    background-image: url("../../images/Rectangle (1).svg");
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+.secbg {
+    background-image: url("../../images/Rectangle (1).svg");
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
